@@ -1,4 +1,5 @@
-### Hi there 👋
+|<img src=./img/tuxerrante-turano-profile-bw-356px.jpg width=50% align="left">|<div style="width:300px;">👋 Hi there</div>|
+|-|-|
 
 <!--
 **tuxerrante/tuxerrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on
+   - Company cloud internal security fixes, AKS automation pipelines, containers refactoring, production operational support...
+   - [Security Profiles Operator](https://github.com/tuxerrante/security-profiles-operator)
+   - [KAppArmor](https://github.com/tuxerrante/kapparmor)
+- 🌱 Take a look on [my public lists](https://github.com/tuxerrante?tab=stars) for fast suggestions on cool repos
+- 👯 I’m looking to extend my collaborations on the Kubernetes space
+- 🤔 I’m looking for help with implementing the [controller design pattern](https://book.kubebuilder.io/architecture.html) on my KApparmor project, keeping it as simple as possible and configurable through Helm values
