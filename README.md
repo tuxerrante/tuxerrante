@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on
-   - Company cloud internal security fixes, AKS automation pipelines, containers refactoring, production operational support...
+   - Company cloud internal security fixes, AKS automation pipelines, containers refactoring, production operational support, terraform modules, golang test suites and apps, helm chart templates, Kubernetes administration and troubleshooting...
    - [Security Profiles Operator](https://github.com/tuxerrante/security-profiles-operator)
    - [KAppArmor](https://github.com/tuxerrante/kapparmor)
 - 🌱 Take a look on [my public lists](https://github.com/tuxerrante?tab=stars) for fast suggestions on cool repos
