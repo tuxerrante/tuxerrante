@@ -1,5 +1,5 @@
 ### Hi there!
-<img src=./img/tuxerrante-turano-profile-bw-356px.jpg width="178px" align="right">
+<img src=./img/tornante-terminillo-smaller.png width="250px" align="right">
 <br>
 
 
