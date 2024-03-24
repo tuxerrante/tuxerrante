@@ -1,5 +1,5 @@
 ### Hi there!
-<img src=./img/tornante-terminillo-smaller.png width="250px" align="right">
+<img src=./img/tornante-terminillo-smaller.png width="250px" align="center">
 <br>
 
 
@@ -12,7 +12,7 @@
 - 🌱 Take a look on [my public lists](https://github.com/tuxerrante?tab=stars) for fast suggestions on cool repos
 - ⎈  I’m looking to *slowly* extend my collaborations in the Kubernetes space
 - 👨🏻‍👩🏼‍👧‍👧🏻 Husband + 2*father! 🤯
-- 🏍️ Motorbiker and [low quality vlogger](https://www.youtube.com/@pastafurious/videos).
+- 🏍️ Motorbiker and low quality vlogger.
 
 
 <!--
