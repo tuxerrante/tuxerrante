@@ -3,16 +3,13 @@
 <br>
 
 
-- 🔭 I’m currently working on
-   - Company cloud internal security fixes, AKS automation pipelines, containers refactoring, production operational support, terraform modules, golang test suites and apps, helm chart templates, Kubernetes administration and troubleshooting...
-   - [Security Profiles Operator](https://github.com/tuxerrante/security-profiles-operator)
-   - [KAppArmor](https://github.com/tuxerrante/kapparmor): 🎤 [Here's my conference speech at KCD Italy!](https://www.youtube.com/watch?v=YCXcH-3RSlE);  🤔 I’m looking for help with implementing the [controller design pattern](https://book.kubebuilder.io/architecture.html) and more features on my KAppArmor project.
+- 🤠 Red Hat Openshift [SRE](https://www.youtube.com/watch?v=G7kUYglu3NY) team 
+- I'm the author of
+  - [KAppArmor](https://github.com/tuxerrante/kapparmor): 🎤 [Here's my conference speech at KCD Italy!](https://www.youtube.com/watch?v=YCXcH-3RSlE);
 - 📕 I've written a [**book** about critical thinking](https://www.amazon.it/Guida-pratica-Pensiero-Critico-Bussola/dp/B0F267MWNP)!
-- 🌱 Take a look on [my public lists](https://github.com/tuxerrante?tab=stars) for fast suggestions on cool repos
-- ⎈  I’m looking to *slowly* extend my collaborations in the Kubernetes space
-- 👨🏻‍👩🏼‍👧‍👧🏻 Husband + 2*father! 🤯
-- 🏍️ Motorbiker and low quality vlogger.
-
+- 👨🏻‍👩🏼‍👧‍👧🏻 Husband + 2*father! 🤯😴
+- 🏍️ (former?) Motorbiker and low quality vlogger.
+- 🎵 Trying to revive my musical soul with AI: [YT](https://www.youtube.com/playlist?list=PLhhAfXm0UyquYs9LMsQlrYp7lDJ57z-k_) / [SoundCloud](https://soundcloud.com/alessandro-affinito-1/sets/domino).
 
 <!--
 **tuxerrante/tuxerrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
