@@ -2,10 +2,10 @@
 <img src=./img/tornante-terminillo-smaller.png width="250px" align="center">
 <br>
 
-
-- 🤠 Red Hat Openshift [SRE](https://www.youtube.com/watch?v=G7kUYglu3NY) team 
-- I'm the author of
-  - [KAppArmor](https://github.com/tuxerrante/kapparmor): [HERE](https://www.youtube.com/watch?v=YCXcH-3RSlE)'s my conference speech at KCD Italy;
+- → [affinitoalessandro.it](https://affinitoalessandro.altervista.it)
+- Red Hat Openshift [SRE](https://www.youtube.com/watch?v=G7kUYglu3NY) team 
+- Author of
+  - [KappArmor](https://github.com/tuxerrante/kapparmor): [here](https://www.youtube.com/watch?v=YCXcH-3RSlE)'s my speech at KCD Italy;
 - 📕 I've written a **book** about critical thinking: [🇮🇹 ITA](https://www.amazon.it/Guida-pratica-Pensiero-Critico-Bussola/dp/B0F267MWNP) - [🇺🇸 ENG](https://a.co/d/02EcB8xH)  !
 - 👨🏻‍👩🏼‍👧‍👧🏻 Husband + 2*father! 🤯😴
 - 🏍️ (former?) Motorbiker and low quality vlogger.
