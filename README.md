@@ -9,7 +9,7 @@ More at [affinitoalessandro.it](https://affinitoalessandro.altervista.it).
 #### Things I built
 
 - [SRE Simulator](https://github.com/tuxerrante/SRESimulator) - AI-guided incident response training for Azure Red Hat OpenShift.  
-  [Live demo](https://sre-simulator.apps.aaffinit-test.westeurope.aroapp.io/) *(temporary deployment, may be offline at any time)*.
+  [Live demo](https://play.sresimulator.osadev.cloud/game) *(temporary deployment, may be offline at any time)*.
 - [KappArmor](https://github.com/tuxerrante/kapparmor) - Kubernetes security project; [here's my KCD Italy talk](https://www.youtube.com/watch?v=YCXcH-3RSlE).
 
 - 📕 I wrote a **book** about critical thinking: [🇮🇹 ITA](https://www.amazon.it/Guida-pratica-Pensiero-Critico-Bussola/dp/B0F267MWNP) / [🇺🇸 ENG](https://a.co/d/02EcB8xH)
