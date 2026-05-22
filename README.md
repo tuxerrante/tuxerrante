@@ -16,3 +16,6 @@ More at [affinitoalessandro.it](https://affinitoalessandro.altervista.it).
 - 😴 Husband and father of two
 - 🏍️ Former(?) motorbiker and low-quality vlogger
 - 🎵 Trying to revive my musical soul with AI: [YT](https://www.youtube.com/playlist?list=PLhhAfXm0UyquYs9LMsQlrYp7lDJ57z-k_) / [SoundCloud](https://soundcloud.com/alessandro-affinito-1/sets/domino)
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tuxerrante)](https://github.com/ryo-ma/github-profile-trophy)
