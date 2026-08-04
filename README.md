@@ -3,7 +3,7 @@
 <img src=./img/tornante-terminillo-smaller.png width="250px" align="center">
 <br>
 
-I'm Alessandro Affinito, former Red Hat [SRE](https://www.youtube.com/watch?v=G7kUYglu3NY) and Oracle DevOps.  
+I'm Alessandro Affinito, former Red Hat [SRE](https://www.youtube.com/watch?v=G7kUYglu3NY) and Oracle DevOps, between [other things](https://www.linkedin.com/in/affinitoalessandro/).  
 I enjoy building things around reliability engineering, investigation workflows, and critical thinking.
 
 More at [affinitoalessandro.it](https://affinitoalessandro.altervista.it).
